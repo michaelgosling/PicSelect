@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PicSelect</string>
+    <string name="title_picture_detail">Picture Detail</string>
+    <string name="adult_back_backpack">Backpacking</string>
+    <string name="bags_black_friday">Black Friday Bags</string>
+    <string name="dark_aurora">Dark Aurora</string>
+    <string name="pexels">Pexels</string>
+    <string name="wolfo">Not Doggo</string>
+</resources>
